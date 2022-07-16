@@ -1,0 +1,14 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "대학원생을 위한 자동 캡쳐 기능",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Gitae Park",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^15.4.0"
+  }
+}
